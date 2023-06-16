@@ -1,0 +1,4 @@
+/home/jacob/sims/w/build/CMakeFiles/sim.dir
+/home/jacob/sims/w/build/CMakeFiles/Simulation.dir
+/home/jacob/sims/w/build/CMakeFiles/edit_cache.dir
+/home/jacob/sims/w/build/CMakeFiles/rebuild_cache.dir
